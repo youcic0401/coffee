@@ -4,7 +4,7 @@ body {
 }
 
 nav {
-  background-color:#FFBB73;
+  background-color:hwb(31 45% 0%);
 }
 header img {
   background-position: center;
